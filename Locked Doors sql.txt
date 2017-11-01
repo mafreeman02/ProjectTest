@@ -1,0 +1,27 @@
+CREATE TABLE public.lockedrooms
+(
+  name character varying(20) NOT NULL,
+  item1 character varying(20) references items(name),
+  item2 character varying(20) references items(name),
+  item3 character varying(20) references items(name),
+  item4 character varying(20) references items(name),
+  key character varying(20) references items(name),
+  numitems integer,
+  maxitems integer,
+  description character varying(100),
+  room_id integer NOT NULL,
+  CONSTRAINT "Lockedrooms_pkey" PRIMARY KEY (room_id)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE public.lockedrooms
+  OWNER TO postgres;
+
+INSERT INTO public.lockedrooms VALUES ('lockedleft', 'note_1', null, null, null, 'blue_key', 1, 9, 'The locked room to the left of the center room', 1);
+
+INSERT INTO public.lockedrooms VALUES ('lockedRight', 'note_2', null, null, null, 'red_key', 1, 9, 'The locked room to the right of the map', 2);
+
+INSERT INTO public.lockedrooms VALUES ('lockedUp', 'note_3', null, null, null, 'yellow_key', 1, 9, 'The locked room at  the top of the map', 3);
+
+INSERT INTO public.lockedrooms VALUES ('lockedDown', 'note_4', null, null, null, 'indigo_key', 1, 9, 'The locked room at the bottom of the map', 4);

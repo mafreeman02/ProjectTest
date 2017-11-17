@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d70b0e44-8ac4-47b5-881b-46cb0efb6b2c" name="Default" comment="" />
+    <list default="true" id="b2ff89b3-535f-47fa-aa05-df5a9aa064e9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -22,77 +22,16 @@
       <file leaf-file-name="Game.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/textbaisedgame/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="287" column="22" lean-forward="false" selection-start-line="287" selection-start-column="22" selection-end-line="287" selection-end-column="22" />
+            <state relative-caret-position="258">
+              <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="320" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#20590#20591#0" expanded="true" />
-                <element signature="e#20643#20644#0" expanded="true" />
-                <element signature="e#20679#20680#0" expanded="true" />
-                <element signature="e#20713#20714#0" expanded="true" />
-                <marker date="1509417032511" expanded="true" signature="2534:2587" ph="SELECT descr... Rooms" />
-                <marker date="1509417032511" expanded="true" signature="2633:2692" ph="SELECT descr... lockedrooms" />
-                <marker date="1509417032511" expanded="true" signature="5023:5100" ph="SELECT item[... Rooms" />
-                <marker date="1509417032511" expanded="true" signature="5513:5738" ph="Select name,... Items" />
-                <marker date="1509417032511" expanded="true" signature="7582:7656" ph="SELECT item1... lockedRooms" />
-                <marker date="1509417032511" expanded="true" signature="8065:8290" ph="Select name,... Items" />
-                <marker date="1509417032511" expanded="true" signature="9958:10009" ph="SELECT key F... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommandWords.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/textbaisedgame/CommandWords.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="76" lean-forward="false" selection-start-line="12" selection-start-column="76" selection-end-line="12" selection-end-column="76" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Command.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/textbaisedgame/Command.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-238">
-              <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lockedRoom.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/textbaisedgame/lockedRoom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Room.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/textbaisedgame/Room.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="198" column="22" lean-forward="false" selection-start-line="198" selection-start-column="19" selection-end-line="198" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2391#2392#0" expanded="true" />
-                <element signature="e#2425#2426#0" expanded="true" />
-                <element signature="e#2604#2605#0" expanded="true" />
-                <element signature="e#2699#2700#0" expanded="true" />
-                <element signature="e#3281#3282#0" expanded="true" />
-                <element signature="e#3330#3331#0" expanded="true" />
-                <element signature="e#3387#3388#0" expanded="true" />
-                <element signature="e#3442#3443#0" expanded="true" />
-                <element signature="e#4225#4226#0" expanded="true" />
-                <element signature="e#4261#4262#0" expanded="true" />
-                <element signature="e#4882#4883#0" expanded="true" />
-                <element signature="e#4911#4912#0" expanded="true" />
-                <element signature="e#4955#4956#0" expanded="true" />
-                <element signature="e#4991#4992#0" expanded="true" />
+                <marker date="1510254884985" expanded="true" signature="2528:2581" ph="SELECT descr... Rooms" />
+                <marker date="1510254884985" expanded="true" signature="2627:2686" ph="SELECT descr... lockedrooms" />
+                <marker date="1510254884985" expanded="true" signature="5017:5094" ph="SELECT item[... Rooms" />
+                <marker date="1510254884985" expanded="true" signature="5507:5732" ph="Select name,... Items" />
+                <marker date="1510254884985" expanded="true" signature="7576:7650" ph="SELECT item1... lockedRooms" />
+                <marker date="1510254884985" expanded="true" signature="8059:8284" ph="Select name,... Items" />
+                <marker date="1510254884985" expanded="true" signature="9952:10003" ph="SELECT key F... " />
               </folding>
             </state>
           </provider>
@@ -101,30 +40,26 @@
       <file leaf-file-name="Item.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/textbaisedgame/Item.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="21" />
+            <state relative-caret-position="210">
+              <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="TextBaisedGame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/textbaisedgame/TextBaisedGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#489#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>item1</find>
-      <find>unl</find>
-      <find>unlocke</find>
-      <find>known</find>
-      <find>unlock</find>
-      <find>getKey</find>
-      <find>finditem</find>
-      <find>temp</find>
-      <find>get</find>
-      <find>findItem</find>
-      <find>grab</find>
-      <find>inventory</find>
-    </findStrings>
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -336,9 +271,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/textbaisedgame/lockedRoom.java" />
-        <option value="$PROJECT_DIR$/src/textbaisedgame/Room.java" />
-        <option value="$PROJECT_DIR$/src/textbaisedgame/CommandWords.java" />
         <option value="$PROJECT_DIR$/src/textbaisedgame/Game.java" />
       </list>
     </option>
@@ -350,8 +282,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="482" />
-    <option name="y" value="-16" />
+    <option name="x" value="54" />
+    <option name="y" value="7" />
     <option name="width" value="1136" />
     <option name="height" value="992" />
   </component>
@@ -370,6 +302,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -393,9 +328,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -529,35 +461,36 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d70b0e44-8ac4-47b5-881b-46cb0efb6b2c" name="Default" comment="" />
-      <created>1509413144102</created>
+      <changelist id="b2ff89b3-535f-47fa-aa05-df5a9aa064e9" name="Default" comment="" />
+      <created>1510254209578</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1509413144102</updated>
-      <workItem from="1509413145564" duration="3997000" />
+      <updated>1510254209578</updated>
+      <workItem from="1510254211089" duration="827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3997000" />
+    <option name="totallyTimeSpent" value="827000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3085339" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1453125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -585,79 +518,44 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/textbaisedgame/Command.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_101/src.zip!/java/sql/DriverManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        <state relative-caret-position="975">
+          <caret line="688" column="0" lean-forward="false" selection-start-line="688" selection-start-column="0" selection-end-line="688" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/textbaisedgame/CommandWords.java">
+    <entry file="file://$PROJECT_DIR$/src/textbaisedgame/TextBaisedGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="76" lean-forward="false" selection-start-line="12" selection-start-column="76" selection-end-line="12" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/textbaisedgame/Room.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="198" column="22" lean-forward="false" selection-start-line="198" selection-start-column="19" selection-end-line="198" selection-end-column="22" />
+        <state relative-caret-position="321">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2391#2392#0" expanded="true" />
-            <element signature="e#2425#2426#0" expanded="true" />
-            <element signature="e#2604#2605#0" expanded="true" />
-            <element signature="e#2699#2700#0" expanded="true" />
-            <element signature="e#3281#3282#0" expanded="true" />
-            <element signature="e#3330#3331#0" expanded="true" />
-            <element signature="e#3387#3388#0" expanded="true" />
-            <element signature="e#3442#3443#0" expanded="true" />
-            <element signature="e#4225#4226#0" expanded="true" />
-            <element signature="e#4261#4262#0" expanded="true" />
-            <element signature="e#4882#4883#0" expanded="true" />
-            <element signature="e#4911#4912#0" expanded="true" />
-            <element signature="e#4955#4956#0" expanded="true" />
-            <element signature="e#4991#4992#0" expanded="true" />
+            <element signature="e#0#489#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/textbaisedgame/Item.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/textbaisedgame/lockedRoom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="210">
+          <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/textbaisedgame/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="287" column="22" lean-forward="false" selection-start-line="287" selection-start-column="22" selection-end-line="287" selection-end-column="22" />
+        <state relative-caret-position="258">
+          <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="320" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#20590#20591#0" expanded="true" />
-            <element signature="e#20643#20644#0" expanded="true" />
-            <element signature="e#20679#20680#0" expanded="true" />
-            <element signature="e#20713#20714#0" expanded="true" />
-            <marker date="1509417032511" expanded="true" signature="2534:2587" ph="SELECT descr... Rooms" />
-            <marker date="1509417032511" expanded="true" signature="2633:2692" ph="SELECT descr... lockedrooms" />
-            <marker date="1509417032511" expanded="true" signature="5023:5100" ph="SELECT item[... Rooms" />
-            <marker date="1509417032511" expanded="true" signature="5513:5738" ph="Select name,... Items" />
-            <marker date="1509417032511" expanded="true" signature="7582:7656" ph="SELECT item1... lockedRooms" />
-            <marker date="1509417032511" expanded="true" signature="8065:8290" ph="Select name,... Items" />
-            <marker date="1509417032511" expanded="true" signature="9958:10009" ph="SELECT key F... " />
+            <marker date="1510254884985" expanded="true" signature="2528:2581" ph="SELECT descr... Rooms" />
+            <marker date="1510254884985" expanded="true" signature="2627:2686" ph="SELECT descr... lockedrooms" />
+            <marker date="1510254884985" expanded="true" signature="5017:5094" ph="SELECT item[... Rooms" />
+            <marker date="1510254884985" expanded="true" signature="5507:5732" ph="Select name,... Items" />
+            <marker date="1510254884985" expanded="true" signature="7576:7650" ph="SELECT item1... lockedRooms" />
+            <marker date="1510254884985" expanded="true" signature="8059:8284" ph="Select name,... Items" />
+            <marker date="1510254884985" expanded="true" signature="9952:10003" ph="SELECT key F... " />
           </folding>
         </state>
       </provider>

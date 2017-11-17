@@ -1,0 +1,4 @@
+Rental Record for Fred
+	A	2
+Amount owed is: 2
+You earned: 1 frequent renter points

@@ -1,0 +1,86 @@
+swagger: '2.0'
+info:
+  version: 1.0.0
+  title: Zork Game
+  description: Resources for a text-based game based on the popular game Zork
+host: 'localhost:8080'
+basePath: /game
+schemes:
+  - http
+paths:
+  /items:
+    get:
+      summary: Get an item
+      description: |
+        Returns an item object
+      operationId: getMessage
+      parameters:
+        - name: id
+          in: query
+          description: item id number
+          type: integer
+      responses:
+        '200':
+          description: Successful response
+          schema:
+            $ref: '#/definitions/Item'
+          examples:
+            application/json:
+              name: item
+              description: item description
+              weight: 1
+              pickUpAble: true
+        default:
+          description: Bad request
+  paths: null
+  /rooms:
+    get:
+      summary: Get a room
+      description: |
+        Returns a room object
+      operationId: getMessage
+      parameters:
+        - name: id
+          in: query
+          description: room id number
+          type: integer
+      responses:
+        '200':
+          description: Successful response
+          schema:
+            $ref: '#/definitions/Item'
+          examples:
+            application/json:
+              description: Room description
+              locked: false
+              item2: none
+              item3: none
+              item1: note_1
+              item4: none
+        default:
+          description: Bad request
+definitions:
+  Item:
+    properties:
+      name:
+        type: string
+      description:
+        type: string
+      weight:
+        type: integer
+      pickupable:
+        type: boolean
+  Room:
+    properties:
+      description:
+        type: string
+      locked:
+        type: boolean
+      item2:
+        type: string
+      item1:
+        type: string
+      item4:
+        type: string
+      item3:
+        type: string
